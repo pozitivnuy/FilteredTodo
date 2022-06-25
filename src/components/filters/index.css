@@ -1,0 +1,16 @@
+.filters {
+    display: flex;
+    align-items: center;
+    justify-content:flex-start;
+    width: 100%;
+    margin-bottom: 10px;
+  
+  }
+  .filters-search {
+    width: 260px;
+    margin-right: 20px;
+  }
+
+  .filters-button {
+    width: 45px;
+  }
